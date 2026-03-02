@@ -2,17 +2,17 @@ name: app_environment
 channels:
   - snowflake
 dependencies:
-  - bcrypt=4.3.0
-  - numpy=2.3.1
-  - openpyxl=3.1.5
-  - pandas=2.2.3
-  - plotly=6.0.1
-  - pydeck=0.9.1
-  - python=3.11.*
-  - python-docx=1.1.0
-  - regex=2024.11.6
-  - scipy=1.15.3
-  - snowflake-snowpark-python=
-  - streamlit=
-  - streamlit-extras=0.6.0
-  - textdistance=4.6.3
+  - bcrypt
+  - numpy
+  - openpyxl
+  - pandas
+  - plotly
+  - pydeck
+  - python
+  - python-docx
+  - regex
+  - scipy
+  - snowflake-snowpark-python
+  - streamlit
+  - streamlit-extras
+  - textdistance
